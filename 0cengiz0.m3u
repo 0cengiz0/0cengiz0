@@ -9,7 +9,7 @@ https://tv-trt1.medya.trt.com.tr/master_1080.m3u8
 #EXTINF:-1 tvg-name="ATV" tvg-id="" tvg-logo="" group-title="⚫ ULUSAL ⚫",ATV
 https://trkvz-live.daioncdn.net/atv/atv.m3u8
 #EXTINF:-1 tvg-name="SHOW TV" tvg-id="" tvg-logo="" group-title="⚫ ULUSAL ⚫",SHOW TV
-http://apc.workrdc2.xyz:80/mehmetkemaliclik84k3/gfZaS6hDu58T/97
+https://ciner.daioncdn.net/showtv/showtv_1080p.m3u8?ex=1664766175&st=RBzhSuGauna0OGld-DJUVA&tv=1&sid=7a3xpgeckmqe&app=4bc856 ef-4c68-4a94-bc87-37dfaaa66558&ce=3
 #EXTINF:-1 tvg-name="NOW TV" tvg-id="" tvg-logo="" group-title="⚫ ULUSAL ⚫",NOW TV
 http://apc.workrdc2.xyz:80/mehmetkemaliclik84k3/gfZaS6hDu58T/27
 #EXTINF:-1 tvg-name="KANAL D" tvg-id="" tvg-logo="" group-title="⚫ ULUSAL ⚫",KANAL D
@@ -31,7 +31,7 @@ https://demiroren-live.daioncdn.net/teve2/teve2_1080p.m3u8
 #EXTINF:-1 tvg-name="A2" tvg-id="" tvg-logo="" group-title="⚫ ULUSAL ⚫",A2
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv_1080p.m3u8
 #EXTINF:-1 tvg-name="A HABER" tvg-id="" tvg-logo="" group-title="🔴 HABER 🔴",A HABER
-https://trkvz-live.ercdn.net/ahaberhd/ahaberhd_720p.m3u8?st=RWRfemZnxxHa4vOgRTSGeg&e=1743179163
+https://trkvz-live.ercdn.net/ahaberhd/ahaberhd.m3u8?st=A1es6jWN9OAejeN5BC-sjA&e=1743289567
 #EXTINF:-1 tvg-name="HABER GLOBAL" tvg-id="Haber Global.tr" tvg-logo="" group-title="🔴 HABER 🔴",HABER GLOBAL
 https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
 #EXTINF:-1 tvg-name="KANAL 24" tvg-id="Kanal 24.tr" tvg-logo="" group-title="🔴 HABER 🔴",KANAL 24
@@ -73,7 +73,7 @@ https://trkvz.daioncdn.net/aspor/aspor_1080p.m3u8?e=1743175784&st=kg0cpLJw4jj0Zp
 #EXTINF:-1 tvg-name="TRT SPOR" tvg-id="" tvg-logo="" group-title="🟢 SPOR 🟢",TRT SPOR
 https://trt.daioncdn.net/trtspor/master_1080p.m3u8?platform=trtspor&sid=79z9tcyuwy3e&app=9b65474e-8197-4899-aabb-321fcf6dd9eb&ce=2
 #EXTINF:-1 tvg-name="TRT SPOR YILDIZ" tvg-id="" tvg-logo="" group-title="🟢 SPOR 🟢",TRT SPOR YILDIZ
-http://lobitv.xyz:8080/ercan1/t3dmtm8STC/353402
+https://trt.daioncdn.net/trtspor-yildiz/master_1080p.m3u8?platform=trtspor&sid=7a3ydop3y1kg&app=6d14425d-4281-477b-8b74-49c40e4aa8b8&ce=2
 #EXTINF:-1 tvg-name="S SPORT" tvg-id="" tvg-logo="" group-title="🟢 SPOR 🟢",S SPORT
 https://bcovlive-a.akamaihd.net/540fcb034b144b848e7ff887f61a293a/eu-central-1/6415845530001/profile_0/chunklist.m3u8
 #EXTINF:-1 tvg-name="S SPORT 2" tvg-id="" tvg-logo="" group-title="🟢 SPOR 🟢",S SPORT 2
