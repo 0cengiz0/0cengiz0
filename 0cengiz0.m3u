@@ -29,7 +29,7 @@ https://demiroren-live.daioncdn.net/teve2/teve2_1080p.m3u8
 #EXTINF:-1 tvg-name="A2" tvg-id="" tvg-logo="" group-title="🔵ULUSAL",A2
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv_1080p.m3u8
 #EXTINF:-1 tvg-name="A HABER" tvg-id="" tvg-logo="" group-title="🔴HABER",A HABER
-https://trkvz-live.ercdn.net/ahaberhd/ahaberhd.m3u8
+https://trkvz-live.ercdn.net/ahaberhd/ahaberhd_720p.m3u8?st=MF9nTSgaRG_wrDZRlprfmA&e=1743447639
 #EXTINF:-1 tvg-name="HABER GLOBAL" tvg-id="Haber Global.tr" tvg-logo="" group-title="🔴HABER",HABER GLOBAL
 https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
 #EXTINF:-1 tvg-name="KANAL 24" tvg-id="Kanal 24.tr" tvg-logo="" group-title="🔴HABER",KANAL 24
@@ -65,7 +65,7 @@ http://apc.workrdc2.xyz:80/mehmetkemaliclik84k3/gfZaS6hDu58T/1492
 #EXTINF:-1 tvg-name="beIN SPORTS 5" tvg-id="cengizhan.tr" tvg-logo="" group-title="🟣BEIN SPORTS",beIN SPORTS 5
 http://apc.workrdc2.xyz:80/mehmetkemaliclik84k3/gfZaS6hDu58T/194676
 #EXTINF:-1 tvg-name="A SPOR" tvg-id="" tvg-logo="" group-title="🟢SPOR",A SPOR
-https://trkvz.daioncdn.net/aspor/aspor_1080p.m3u8
+https://trkvz.daioncdn.net/aspor/aspor_1080p.m3u8?e=1743447774&st=1XY9fO4Cq2HZ825yvaS1Og&sid=7aagqo5bwcb2&app=45f847c4-04e8-419a-a561-2ebf87084765&ce=3
 #EXTINF:-1 tvg-name="TRT SPOR" tvg-id="" tvg-logo="" group-title="🟢SPOR",TRT SPOR
 https://trt.daioncdn.net/trtspor/master_1080p.m3u8?platform=trtspor&sid=79z9tcyuwy3e&app=9b65474e-8197-4899-aabb-321fcf6dd9eb&ce=2
 #EXTINF:-1 tvg-name="TRT SPOR YILDIZ" tvg-id="" tvg-logo="" group-title="🟢SPOR",TRT SPOR YILDIZ
