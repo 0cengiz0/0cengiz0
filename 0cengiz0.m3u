@@ -19,7 +19,7 @@ http://apc.workrdc2.xyz:80/mehmetkemaliclik84k3/gfZaS6hDu58T/28
 http://apc.workrdc2.xyz:80/mehmetkemaliclik84k3/gfZaS6hDu58T/2357
 #EXTINF:-1 tvg-name="TV8" tvg-id="" tvg-logo="" group-title="🔵ULUSAL",TV8
 https://b.fulltvizle.com/kanal8/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="TV8 5" tvg-id="" tvg-logo="" group-title="🔵ULUSAL",TV8-5
+#EXTINF:-1 tvg-name="TV8-5" tvg-id="" tvg-logo="" group-title="🔵ULUSAL",TV8-5
 http://apc.workrdc2.xyz:80/mehmetkemaliclik84k3/gfZaS6hDu58T/2068
 #EXTINF:-1 tvg-name="TRT 2" tvg-id="" tvg-logo="" group-title="🔵ULUSAL",TRT 2
 https://tv-trt2.medya.trt.com.tr/master.m3u8
@@ -73,8 +73,7 @@ https://trt.daioncdn.net/trtspor/master_1080p.m3u8?platform=trtspor&sid=79z9tcyu
 https://trt.daioncdn.net/trtspor-yildiz/master_1080p.m3u8?platform=trtspor&sid=7a3ydop3y1kg&app=6d14425d-4281-477b-8b74-49c40e4aa8b8&ce=2
 #EXTINF:-1 tvg-name="S SPORT" tvg-id="" tvg-logo="" group-title="🟢SPOR",S SPORT
 https://bcovlive-a.akamaihd.net/540fcb034b144b848e7ff887f61a293a/eu-central-1/6415845530001/profile_0/chunklist.m3u8
-
-#EXTINF:-1 tvg-name="S SPORT 2" tvg-id="" tvg-logo="" group-title="🟢SPOR",S SPORT 2
+#EXTINF:-1 tvg-name="S SPORT-2" tvg-id="" tvg-logo="" group-title="🟢SPOR",S SPORT-2
 https://bcovlive-a.akamaihd.net/29c60f23ea4840ba8726925a77fcfd0b/eu-central-1/6415845530001/profile_0/chunklist.m3u8
 #EXTM3U x-tvg-url="https://www.open-epg.com/files/turkey2.xml"
 #EXTINF:-1 tvg-name="TRT ÇOCUK" tvg-id="" tvg-logo="" group-title="🟡ÇOCUK",TRT ÇOCUK
