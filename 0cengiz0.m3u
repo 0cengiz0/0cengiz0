@@ -73,6 +73,7 @@ https://trt.daioncdn.net/trtspor/master_1080p.m3u8?platform=trtspor&sid=79z9tcyu
 https://trt.daioncdn.net/trtspor-yildiz/master_1080p.m3u8?platform=trtspor&sid=7a3ydop3y1kg&app=6d14425d-4281-477b-8b74-49c40e4aa8b8&ce=2
 #EXTINF:-1 tvg-name="S SPORT" tvg-id="" tvg-logo="" group-title="🟢SPOR",S SPORT
 https://bcovlive-a.akamaihd.net/540fcb034b144b848e7ff887f61a293a/eu-central-1/6415845530001/profile_0/chunklist.m3u8
+
 #EXTINF:-1 tvg-name="S SPORT 2" tvg-id="" tvg-logo="" group-title="🟢SPOR",S SPORT 2
 https://bcovlive-a.akamaihd.net/29c60f23ea4840ba8726925a77fcfd0b/eu-central-1/6415845530001/profile_0/chunklist.m3u8
 #EXTM3U x-tvg-url="https://www.open-epg.com/files/turkey2.xml"
